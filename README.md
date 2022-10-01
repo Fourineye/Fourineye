@@ -1,14 +1,14 @@
-### Hi I'm Paul
+# Hi I'm Paul 
 
-## About Me
+## About Me ❓
 I am a developer looking to break into tech, with experience mostly in Python3. I am working on expanding my knowledge and am working through a program for full stack web development.
 
-## Currently Learning
+## Currently Learning 🧠
 - React
 - Flask
 
-## Fun Fact
-I was born in Indonesia
+## Fun Fact 🎈
+I was born in Indonesia 
 
 <!--
 **Fourineye/Fourineye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
