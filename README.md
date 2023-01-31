@@ -1,26 +1,33 @@
 # Hi I'm Paul 
 
 ## About Me ❓
-I am a developer looking to break into tech, with experience mostly in Python3. I am working on expanding my knowledge and am working through a program for full stack web development.
+I am a curious and prolific dev, I have made countless little projects over the years to satisfy my curiosity about a specific technology or problem. 
+I am just beginning to break into the world of web development and professional development. I want to learn and grow and find my niche in the industry.
+### Pronouns: He/Him
 
-## Currently Learning 🧠
-- React
+## Some skills I have 💪🏻
+### Python
 - Flask
+- Pygame
+### JavaScript
+- Node.js
+### HTML
+### CSS
+### Git
+
+## Some skills I am learning 🧠
+### JavaScript
+- React
+### Java
+
+## Some skills I want to learn 💭
+### C++
+### C#
 
 ## Fun Fact 🎈
 I was born in Indonesia 
 
-<!--
-**Fourineye/Fourineye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can find me ✉️
+### Email: paulsmith8812@gmail.com
+### Here: https://github.com/Fourineye
+### LinkedIn: https://www.linkedin.com/in/paul-smith-772421145
